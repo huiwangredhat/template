@@ -4,7 +4,7 @@
 Catalog Title
 
 ## Component: Component Title
-      #### Result of control: %s, extractControlId(finding.Target.TargetId)
+      #### Result of control: r61
             Rule ID: package_dnf-automatic_installed
             <details><summary>▼ Details</summary>
               - Subject UUID: c9350cb6-17ff-48a0-b964-4575e9e51d55
@@ -45,7 +45,7 @@ Catalog Title
                   my reason
                   ```
             </details>
-      #### Result of control: %s, extractControlId(finding.Target.TargetId)
+      #### Result of control: r59
             Rule ID: ensure_gpgcheck_local_packages
             <details><summary>▼ Details</summary>
               - Subject UUID: 9df891ea-f809-46f7-8a88-ceb02d188791
@@ -66,7 +66,7 @@ Catalog Title
                   my reason
                   ```
             </details>
-      #### Result of control: %s, extractControlId(finding.Target.TargetId)
+      #### Result of control: r31
             Rule ID: enable_authselect
             <details><summary>▼ Details</summary>
               - Subject UUID: 0b862bd1-fee2-4d11-8d36-150957347a05
@@ -197,7 +197,7 @@ Catalog Title
                   my reason
                   ```
             </details>
-      #### Result of control: %s, extractControlId(finding.Target.TargetId)
+      #### Result of control: r68
             Rule ID: accounts_password_pam_minclass
             <details><summary>▼ Details</summary>
               - Subject UUID: 1d83a597-f3a3-48eb-be3e-b260f1083b6d
@@ -238,7 +238,7 @@ Catalog Title
                   my reason
                   ```
             </details>
-      #### Result of control: %s, extractControlId(finding.Target.TargetId)
+      #### Result of control: r56
             Rule ID: file_permissions_unauthorized_suid
             <details><summary>▼ Details</summary>
               - Subject UUID: 867bcbe9-8c05-4ae4-8600-ceb5bbf21d01
@@ -249,7 +249,7 @@ Catalog Title
                   my reason
                   ```
             </details>
-      #### Result of control: %s, extractControlId(finding.Target.TargetId)
+      #### Result of control: r62
             Rule ID: package_talk-server_removed
             <details><summary>▼ Details</summary>
               - Subject UUID: c3d04204-ef99-452c-bc7a-0b9bdfd29545
