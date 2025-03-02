@@ -4,6 +4,7 @@
 Catalog Title
 
 ## Component: Component Title
+      ### Test:
       #### Result of control: r61
           - Rule ID: package_dnf-automatic_installed
           <details>
@@ -49,6 +50,7 @@ Catalog Title
                   my reason
                   ```
           </details>
+      ### Test:
       #### Result of control: r59
           - Rule ID: ensure_gpgcheck_local_packages
           <details>
@@ -72,6 +74,7 @@ Catalog Title
                   my reason
                   ```
           </details>
+      ### Test:
       #### Result of control: r31
           - Rule ID: enable_authselect
           <details>
@@ -216,6 +219,7 @@ Catalog Title
                   my reason
                   ```
           </details>
+      ### Test:
       #### Result of control: r68
           - Rule ID: accounts_password_pam_minclass
           <details>
@@ -261,6 +265,7 @@ Catalog Title
                   my reason
                   ```
           </details>
+      ### Test:
       #### Result of control: r56
           - Rule ID: file_permissions_unauthorized_suid
           <details>
@@ -273,6 +278,7 @@ Catalog Title
                   my reason
                   ```
           </details>
+      ### Test:
       #### Result of control: r62
           - Rule ID: package_talk-server_removed
           <details>
