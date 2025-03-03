@@ -4,7 +4,7 @@
 Catalog Ttile
 
 ## Component: rhel9
-
+-------------------------------------------------------
 #### Result of control: r61
 
 Rule ID: package_dnf-automatic_installed
@@ -66,7 +66,7 @@ Rule ID: timer_dnf-automatic_enabled
       my reason
       ```
 </details>
-
+-------------------------------------------------------
 #### Result of control: r59
 
 Rule ID: ensure_gpgcheck_local_packages
@@ -98,7 +98,7 @@ Rule ID: ensure_gpgcheck_never_disabled
       my reason
       ```
 </details>
-
+-------------------------------------------------------
 #### Result of control: r31
 
 Rule ID: enable_authselect
@@ -295,7 +295,7 @@ Rule ID: accounts_password_set_max_life_root
       my reason
       ```
 </details>
-
+-------------------------------------------------------
 #### Result of control: r68
 
 Rule ID: accounts_password_pam_minclass
@@ -357,7 +357,7 @@ Rule ID: accounts_password_pam_unix_rounds_system_auth
       my reason
       ```
 </details>
-
+-------------------------------------------------------
 #### Result of control: r56
 
 Rule ID: file_permissions_unauthorized_suid
@@ -374,7 +374,7 @@ Rule ID: file_permissions_unauthorized_suid
       my reason
       ```
 </details>
-
+-------------------------------------------------------
 #### Result of control: r62
 
 Rule ID: package_talk-server_removed
@@ -421,4 +421,3 @@ Rule ID: package_telnet_removed
       my reason
       ```
 </details>
----
