@@ -1,7 +1,7 @@
 # Assessment Results Details
 
 # Catalog
-Catalog Title
+Catalog Ttile
 
 ## Component: rhel9
 
@@ -421,3 +421,4 @@ Rule ID: package_telnet_removed
       my reason
       ```
 </details>
+---
