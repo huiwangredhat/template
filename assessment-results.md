@@ -3,7 +3,7 @@
 # Catalog
 Catalog Title
 
-## Component: Component Title
+## Component: rhel9
 
 #### Result of control: r61
 
