@@ -13,7 +13,7 @@ Rule ID: package_dnf-automatic_installed
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 547ee529-f249-4725-9329-5b6a8f59a111
+  - Subject UUID: 8865783b-a180-44f4-901f-e138f6e21422
   - Title: My Comp
 
     - Result: fail
@@ -28,7 +28,7 @@ Rule ID: dnf-automatic_apply_updates
 <details><summary>Details</summary>
 
 
-  - Subject UUID: c17678b9-9e62-4695-8463-af332218e53a
+  - Subject UUID: 96e1ed4a-37b6-4c57-a4ae-efd51815ed17
   - Title: My Comp
 
     - Result: fail
@@ -43,7 +43,7 @@ Rule ID: dnf-automatic_security_updates_only
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 88d5c692-3fd4-4f0d-adc3-5775d7e2aeeb
+  - Subject UUID: 55eebb1f-8519-4874-8688-ed684335b907
   - Title: My Comp
 
     - Result: fail
@@ -58,7 +58,7 @@ Rule ID: timer_dnf-automatic_enabled
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 4a5278d6-fb7d-49b0-b51b-09783c530d84
+  - Subject UUID: d92e22ed-17d8-4bce-a0f8-6aaf9cec8f7b
   - Title: My Comp
 
     - Result: fail
@@ -77,7 +77,7 @@ Rule ID: ensure_gpgcheck_local_packages
 <details><summary>Details</summary>
 
 
-  - Subject UUID: e71986a1-e1d3-4758-a5bb-f8ee952abe76
+  - Subject UUID: 3b499174-7ecd-44af-8f86-65585d3c2e1b
   - Title: My Comp
 
     - Result: fail
@@ -92,7 +92,7 @@ Rule ID: ensure_gpgcheck_never_disabled
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 090419c7-f687-44e2-8bf8-2801c8536d73
+  - Subject UUID: 440c7105-b491-4446-a353-a2e87d502af7
   - Title: My Comp
 
     - Result: fail
@@ -111,7 +111,7 @@ Rule ID: enable_authselect
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 71fdc708-c98c-4a9d-b2c5-ad90702cf271
+  - Subject UUID: 8ca2fe87-189c-4a6b-8d20-dbbf8b862746
   - Title: My Comp
 
     - Result: fail
@@ -126,7 +126,7 @@ Rule ID: accounts_password_pam_unix_remember
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 19b066aa-ace2-4c7c-a809-b17cc44b73f7
+  - Subject UUID: e841b595-1058-427d-a9f6-22b110aaf7e7
   - Title: My Comp
 
     - Result: fail
@@ -141,7 +141,7 @@ Rule ID: accounts_passwords_pam_faillock_deny
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 49e2d1a0-03b8-41cf-8256-88010000265f
+  - Subject UUID: c01bedc4-63d7-43f3-9d51-fc1eb4b49c9c
   - Title: My Comp
 
     - Result: fail
@@ -156,7 +156,7 @@ Rule ID: accounts_passwords_pam_faillock_deny_root
 <details><summary>Details</summary>
 
 
-  - Subject UUID: d1416657-ff58-4c48-8ca8-bc595f5a2cc1
+  - Subject UUID: 63223715-6bd9-49d4-9b83-ee45d3ec854e
   - Title: My Comp
 
     - Result: fail
@@ -171,7 +171,7 @@ Rule ID: accounts_passwords_pam_faillock_interval
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 40788ed4-4938-48e4-a34d-6cf53442724b
+  - Subject UUID: 76bcbd99-87da-46bc-8e99-81b28957b40f
   - Title: My Comp
 
     - Result: fail
@@ -186,7 +186,7 @@ Rule ID: accounts_passwords_pam_faillock_unlock_time
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 28e52194-3bca-4f51-82ae-7bfca6617f32
+  - Subject UUID: bbad1ccd-39db-41a7-96d0-afa052b83732
   - Title: My Comp
 
     - Result: fail
@@ -201,7 +201,7 @@ Rule ID: accounts_password_pam_dcredit
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 7d67e060-d648-4eb3-af8d-203c861a1984
+  - Subject UUID: 3b85b782-4c65-4289-b6d4-d95ce77f7886
   - Title: My Comp
 
     - Result: fail
@@ -216,7 +216,7 @@ Rule ID: accounts_password_pam_lcredit
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 10c55f20-01de-49de-b1e8-0376e84e4588
+  - Subject UUID: d7db091f-e5cf-4b9f-8584-3d9295f83723
   - Title: My Comp
 
     - Result: fail
@@ -231,7 +231,7 @@ Rule ID: accounts_password_pam_minlen
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 584d9c0f-e0ea-4033-8213-e542ed5daebf
+  - Subject UUID: f3f687fb-608c-424a-9360-406abe5de0f1
   - Title: My Comp
 
     - Result: fail
@@ -246,7 +246,7 @@ Rule ID: accounts_password_pam_ocredit
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 5ce166bd-851a-42f7-936b-d5307f80a186
+  - Subject UUID: ba3a17fc-7c88-49f5-9e2f-eaddb8ca06f9
   - Title: My Comp
 
     - Result: fail
@@ -261,7 +261,7 @@ Rule ID: accounts_password_pam_ucredit
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 43b00faa-cb23-4573-a086-41d864d5dc08
+  - Subject UUID: c3f602de-ff0c-40d7-a2ec-bb66448f5854
   - Title: My Comp
 
     - Result: fail
@@ -276,7 +276,7 @@ Rule ID: accounts_password_minlen_login_defs
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 9e155f6c-b36a-4efd-8cff-9f109ffc5444
+  - Subject UUID: eb5c7e43-06c5-4e14-8c62-0965f8feda4d
   - Title: My Comp
 
     - Result: fail
@@ -291,7 +291,7 @@ Rule ID: accounts_password_set_max_life_root
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 1614769f-f978-48a0-86c4-4e373b163a9f
+  - Subject UUID: 49878457-f189-489b-8c59-8639c5da2dd1
   - Title: My Comp
 
     - Result: fail
@@ -310,7 +310,7 @@ Rule ID: accounts_password_pam_minclass
 <details><summary>Details</summary>
 
 
-  - Subject UUID: cc7b7bb4-7de1-4f33-a206-eb1733e4b107
+  - Subject UUID: 1994ff36-ce82-4100-8f30-3b0657947007
   - Title: My Comp
 
     - Result: fail
@@ -325,7 +325,7 @@ Rule ID: accounts_password_pam_minlen
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 584d9c0f-e0ea-4033-8213-e542ed5daebf
+  - Subject UUID: f3f687fb-608c-424a-9360-406abe5de0f1
   - Title: My Comp
 
     - Result: fail
@@ -340,7 +340,7 @@ Rule ID: accounts_password_pam_unix_rounds_password_auth
 <details><summary>Details</summary>
 
 
-  - Subject UUID: ef47555f-b034-4720-8d2f-00eff7ad3593
+  - Subject UUID: 0c728531-3c4f-4b00-a865-631e6d771700
   - Title: My Comp
 
     - Result: fail
@@ -355,7 +355,7 @@ Rule ID: accounts_password_pam_unix_rounds_system_auth
 <details><summary>Details</summary>
 
 
-  - Subject UUID: b904ca39-7aa3-476a-8374-d41df7e44802
+  - Subject UUID: ccce8360-d9cf-458e-a7e2-8ba55b2eba32
   - Title: My Comp
 
     - Result: fail
@@ -374,7 +374,26 @@ Rule ID: file_permissions_unauthorized_suid
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 7439d9ec-064f-4b64-93cd-89fa57b12e21
+  - Subject UUID: d5b554f3-6d71-432d-8a8a-371289f8f313
+  - Title: My Comp
+
+    - Result: fail
+
+    - Reason:
+      ```
+      my reason
+      ```
+</details>
+
+-------------------------------------------------------
+
+#### Result of control: r54
+
+Rule ID: file_permissions_unauthorized_world_writable
+<details><summary>Details</summary>
+
+
+  - Subject UUID: 8df70725-0f90-4f46-8be0-1b3450dd8263
   - Title: My Comp
 
     - Result: fail
@@ -393,7 +412,7 @@ Rule ID: package_talk-server_removed
 <details><summary>Details</summary>
 
 
-  - Subject UUID: e4f12289-a784-4299-ba08-4987f3c75a53
+  - Subject UUID: 57471266-f056-4cce-95bc-83323e12aee6
   - Title: My Comp
 
     - Result: error
@@ -408,7 +427,7 @@ Rule ID: package_talk_removed
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 84b845ec-6999-4fb7-8837-cf8b27f7fe1c
+  - Subject UUID: 5683c9ae-7a76-43d5-b61e-f253cc8b1745
   - Title: My Comp
 
     - Result: error
@@ -423,7 +442,7 @@ Rule ID: package_telnet_removed
 <details><summary>Details</summary>
 
 
-  - Subject UUID: 49ab1f73-3937-4bcd-8101-cdf81fbda70f
+  - Subject UUID: ee0e0dbb-0903-43b3-a32e-5df9c1aa4147
   - Title: My Comp
 
     - Result: fail
